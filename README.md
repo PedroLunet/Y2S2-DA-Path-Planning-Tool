@@ -93,7 +93,7 @@ The Path Planning Tool is a comprehensive urban navigation system that assists u
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone git@github.com:PedroLunet/Y2S2-DA-Path-Planning-Tool.git
 cd Y2S2-DA-Path-Planning-Tool
 
 # Create build directory
