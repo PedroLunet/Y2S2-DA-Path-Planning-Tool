@@ -7,6 +7,8 @@
 
 A sophisticated path-planning tool developed in C++ for the Design of Algorithms (DA) course at FEUP. This project demonstrates advanced algorithmic implementations with real-world urban navigation capabilities, featuring optimized routing algorithms and comprehensive data management.
 
+## 🎓 Grade: 19.7/20
+
 ## 🌐 About
 
 The Path Planning Tool is a comprehensive urban navigation system that assists users in finding optimal routes between locations. Built with performance and flexibility in mind, it offers:
